@@ -65,3 +65,6 @@ $ whoami
 [![](https://visitcount.itsvg.in/api?id=chandhru4370&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Crafted with ❤️ by Udhaya Kumar aka GeetorusKingdom -->
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Chandhru+A;Fullstack+Developer;C%23+and+MERN+Stack+Enthusiast;Building+Cool+Projects+🚀)](https://git.io/typing-svg)
